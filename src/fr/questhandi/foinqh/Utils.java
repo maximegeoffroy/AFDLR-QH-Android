@@ -36,7 +36,7 @@ public abstract class Utils {
 	public final static String URL_PROGRAMMATION = HOST + "Programmation.php";
 	public final static String URL_ARTISTES = HOST + "Listeartiste.php";
 	public final static String URL_SITE = "http://aufoindelarue.com";
-	public final static String URL_BILLETERIE = "http://www.aufoindelarue.com/pratique/billetterie/";
+	public final static String URL_BILLETERIE = "http://www.aufoindelarue.com/billetterie/";
 
 	//URL QUEST'HANDI
 	public final static String URL_ASSOQH = HOST + "InfoQh.php";

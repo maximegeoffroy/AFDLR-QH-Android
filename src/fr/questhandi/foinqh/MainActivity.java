@@ -155,7 +155,7 @@ public class MainActivity extends Activity {
 				
 				return true;
 			case R.id.assoc_1:
-				list.setBackgroundResource(R.drawable.fondetgauche);
+				list.setBackgroundResource(R.drawable.fondetgauche2016);
 				
 				//Changement du titre
 				title = Utils.TITLE_ASSOAFDLR;
